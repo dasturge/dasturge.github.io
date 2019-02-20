@@ -13,7 +13,7 @@ I hiked volcanoes, camped in the desert, found hidden hot springs, ferried my wa
 More recently I've set my sights on some European destinations, starting with a trip to Italy in 2019.&lt;/p&gt;
 &lt;p&gt;I'm also a lover of camping, music festivals, snowboarding, and beaches.
 I like to stay fit, practicing handstands and various gymnastic movements, so I can take my fitness with me wherever I go.
-When I'm less active I enjoy books, movies, comics, strategy games, and a good Czech beer.&lt;/p&gt;</content><category term="about"></category></entry><entry><title>Image Math Intro</title><link href="https://dasturge.github.io/image-math.html" rel="alternate"></link><published>2019-02-16T00:00:00-08:00</published><updated>2019-02-16T00:00:00-08:00</updated><author><name>Darrick Sturgeon</name></author><id>tag:dasturge.github.io,2019-02-16:/image-math.html</id><summary type="html">&lt;p&gt;easy introduction to image math&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+When I'm less active I enjoy books, movies, comics, strategy games, and a good Czech beer.&lt;/p&gt;</content></entry><entry><title>Image Math Intro</title><link href="https://dasturge.github.io/image-math.html" rel="alternate"></link><published>2019-02-16T00:00:00-08:00</published><updated>2019-02-16T00:00:00-08:00</updated><author><name>Darrick Sturgeon</name></author><id>tag:dasturge.github.io,2019-02-16:/image-math.html</id><summary type="html">&lt;p&gt;easy introduction to image math&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -1781,10 +1781,10 @@ $$&lt;/p&gt;
 
  
  
-&lt;div id="7fed67ea-6b87-47cb-9899-c1b8795376f7"&gt;&lt;/div&gt;
+&lt;div id="91c4e42c-b4c3-4a83-bfec-a19602c948a3"&gt;&lt;/div&gt;
 &lt;div class="output_subarea output_widget_view "&gt;
 &lt;script type="text/javascript"&gt;
-var element = $('#7fed67ea-6b87-47cb-9899-c1b8795376f7');
+var element = $('#91c4e42c-b4c3-4a83-bfec-a19602c948a3');
 &lt;/script&gt;
 &lt;script type="application/vnd.jupyter.widget-view+json"&gt;
 {"model_id": "c291a0bb4d48407a8fb4157d233e55a3", "version_major": 2, "version_minor": 0}
@@ -1966,10 +1966,10 @@ var element = $('#7fed67ea-6b87-47cb-9899-c1b8795376f7');
 
  
  
-&lt;div id="9df0c270-d7c1-4d1c-bfd9-f799ff140d6a"&gt;&lt;/div&gt;
+&lt;div id="e9455a35-ccb6-4465-8ea6-0a881e2bc7f0"&gt;&lt;/div&gt;
 &lt;div class="output_subarea output_widget_view "&gt;
 &lt;script type="text/javascript"&gt;
-var element = $('#9df0c270-d7c1-4d1c-bfd9-f799ff140d6a');
+var element = $('#e9455a35-ccb6-4465-8ea6-0a881e2bc7f0');
 &lt;/script&gt;
 &lt;script type="application/vnd.jupyter.widget-view+json"&gt;
 {"model_id": "e8ca36b4ecd549c28409de1dae79f3ac", "version_major": 2, "version_minor": 0}
@@ -1988,10 +1988,10 @@ var element = $('#9df0c270-d7c1-4d1c-bfd9-f799ff140d6a');
 
  
  
-&lt;div id="eb24f30f-f4a6-44de-a4ed-67cd7964a1b3"&gt;&lt;/div&gt;
+&lt;div id="172c13af-b7ae-43ae-9afd-0ecfe6ab927f"&gt;&lt;/div&gt;
 &lt;div class="output_subarea output_widget_view "&gt;
 &lt;script type="text/javascript"&gt;
-var element = $('#eb24f30f-f4a6-44de-a4ed-67cd7964a1b3');
+var element = $('#172c13af-b7ae-43ae-9afd-0ecfe6ab927f');
 &lt;/script&gt;
 &lt;script type="application/vnd.jupyter.widget-view+json"&gt;
 {"model_id": "ef6161d87f684eba88f4333b89cb2d74", "version_major": 2, "version_minor": 0}
@@ -2154,10 +2154,10 @@ var element = $('#eb24f30f-f4a6-44de-a4ed-67cd7964a1b3');
 
  
  
-&lt;div id="ea5c18d7-fd1b-47be-b209-7ed1a18a2a62"&gt;&lt;/div&gt;
+&lt;div id="844a832d-6fa3-4a7a-9e9d-5a3b6f7cc877"&gt;&lt;/div&gt;
 &lt;div class="output_subarea output_widget_view "&gt;
 &lt;script type="text/javascript"&gt;
-var element = $('#ea5c18d7-fd1b-47be-b209-7ed1a18a2a62');
+var element = $('#844a832d-6fa3-4a7a-9e9d-5a3b6f7cc877');
 &lt;/script&gt;
 &lt;script type="application/vnd.jupyter.widget-view+json"&gt;
 {"model_id": "4179f3c1993b4bef95dba6fd8fc7dddd", "version_major": 2, "version_minor": 0}
@@ -2176,10 +2176,10 @@ var element = $('#ea5c18d7-fd1b-47be-b209-7ed1a18a2a62');
 
  
  
-&lt;div id="7a399ddd-458f-4343-9317-11336e44b59d"&gt;&lt;/div&gt;
+&lt;div id="bd6dd995-9015-46b0-b471-b3ce89d9fdbe"&gt;&lt;/div&gt;
 &lt;div class="output_subarea output_widget_view "&gt;
 &lt;script type="text/javascript"&gt;
-var element = $('#7a399ddd-458f-4343-9317-11336e44b59d');
+var element = $('#bd6dd995-9015-46b0-b471-b3ce89d9fdbe');
 &lt;/script&gt;
 &lt;script type="application/vnd.jupyter.widget-view+json"&gt;
 {"model_id": "9c3105085d1c49ca9ce79ab97f152226", "version_major": 2, "version_minor": 0}
@@ -2198,10 +2198,10 @@ var element = $('#7a399ddd-458f-4343-9317-11336e44b59d');
 
  
  
-&lt;div id="214cb879-72ff-4b37-b64e-495758109455"&gt;&lt;/div&gt;
+&lt;div id="5297cdcd-4cf9-426c-8814-1579f0b18c1d"&gt;&lt;/div&gt;
 &lt;div class="output_subarea output_widget_view "&gt;
 &lt;script type="text/javascript"&gt;
-var element = $('#214cb879-72ff-4b37-b64e-495758109455');
+var element = $('#5297cdcd-4cf9-426c-8814-1579f0b18c1d');
 &lt;/script&gt;
 &lt;script type="application/vnd.jupyter.widget-view+json"&gt;
 {"model_id": "391b908e5fb0475d8b2bf1fcb2b11aa9", "version_major": 2, "version_minor": 0}
